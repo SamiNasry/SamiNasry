@@ -1,3 +1,2 @@
-<h1 align="center">FEEL THE FEAR AND DO IT ANYWAY</h1>
-
+> “Code the future, one line at a time.”  
 
