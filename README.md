@@ -1,5 +1,6 @@
 <div align="center">
 
-> **“Code the future, one line at a time.”**
+ **"Talk is cheap. Show me the code."
+— Linus Torvalds**
 
 </div>
